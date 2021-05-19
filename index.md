@@ -1,8 +1,5 @@
-
-# Tubefeeder
-A Youtube-Client made for the Pinephone
-
 # Screenshots
+
 <table>
   <tr>
     <td>
