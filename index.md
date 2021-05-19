@@ -13,8 +13,8 @@
     </td>
     <td>
        <img src="https://github.com/Schmiddiii/Tubefeeder/blob/master/screenshots/tubefeeder_screenshot_subscriptions.png?raw=true" alt="Subscriptions" width="400"/>
-      </td>
-    <tr>
+    </td>
+  </tr>
 </table>
 
 # What it can do
