@@ -1,5 +1,5 @@
   <head>
-    <link rel="shortcut icon" type="image/png" href="tubefeeder.png">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   </head>
 
 
